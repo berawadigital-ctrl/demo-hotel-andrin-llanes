@@ -1,0 +1,4 @@
+Ilustracion generada por codigo (make_art.py), tipo 'skyline', semilla 1623, paleta ['#14303a', '#5aa4b1', '#e2f2f2', '#477a83', '#2f5a63', '#0e2228'].
+Sin fotografias ni logotipos: no muestra el establecimiento.
+Hash de los parametros: 47800b7e6f4d1f19341d4449d600ccbd3f2acfc59e42819be8c52c8af5438fcc
+Licencia: Ilustracion propia de Berawa Solutions, generada por berawa/build/make_art.py (Pillow): sin fotos, logos ni textos de terceros; uso libre para esta propuesta.

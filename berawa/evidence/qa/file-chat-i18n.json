@@ -1,0 +1,418 @@
+{
+ "url": "file:///tmp/clon-hotel-andrin-llanes/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tienen 7 apartamentos: el 1, 2 y 3, en planta baja, para 2 adultos y 2 niños con terraza a un pequeño jardín; el 4 y 5, para 4 personas con "
+    },
+    {
+     "q": "¿Qué tienen los apartamentos?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Tienen cama doble o individual, terraza, jardín, bañera, secador, calefacción, televisión, lavavajillas, lavadora, cocina completa, cafetera"
+    },
+    {
+     "q": "¿Tenéis parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, tienen aparcamiento privado y el parking es gratis."
+    },
+    {
+     "q": "¿Está cerca la playa?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí: la playa de Andrín está a 400 m, y a menos de 5 minutos hay más de 20 playas del Oriente de Asturias, como Gulpiyuri, Torimbia o Cuevas "
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hay conexión WiFi en todo el hotel, además de jardín y terraza exterior."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Están en Andrín, s/n, Llanes (Asturias), en una zona muy tranquila, a escasos metros de la playa, la senda costera y el campo de golf munici"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar escribiendo a info@hotelandrin.com (botón Reservar) o llamando al 985417453 o al 638004162. Este asistente no confirma dispo"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar escribiendo a info@hotelandrin.com (botón Reservar) o llamando al 985417453 o al 638004162. Este asistente no confirma dispo"
+    },
+    {
+     "q": "¿Hacéis rutas en bicicleta?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí: desde el hotel organizan rutas guiadas en bicicleta, de montaña o de carretera, y son gratuitas. Si prefieres ir solo, te indican los me"
+    },
+    {
+     "q": "¿Hay campo de golf cerca?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí: el Campo de Golf municipal «La Cuesta» está entre Andrín y Cué, a unos 100 metros sobre el nivel del mar, a escasos metros del hotel."
+    },
+    {
+     "q": "¿Qué actividades se pueden hacer?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Desde el hotel puedes planificar rutas senderistas, la ruta del Cares, quads, paseos a caballo y en bicicleta, descensos en canoa, deportes "
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfonos: 985417453 y 638004162. Correo: info@hotelandrin.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Cómo llego desde Oviedo?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Desde Oviedo o Santander, por la E-70/A-8 hasta la salida 294 (Llanes); después la N-634 dirección San Roque y, en la siguiente rotonda, la "
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿Tenéis parking?",
+    "¿Está cerca la playa?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 7 apartments: 1, 2 and 3, on the ground floor, for 2 adults and 2 children with a terrace onto a small garden; 4 and 5, for 4 peop"
+    },
+    {
+     "q": "What do the apartments include?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "They have a double or single bed, terrace, garden, bathtub, hairdryer, heating, TV, dishwasher, washing machine, full kitchen, coffee maker "
+    },
+    {
+     "q": "Do you have parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, they have private parking and it is free."
+    },
+    {
+     "q": "Is the beach close?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes: Andrín beach is 400 m away, and within 5 minutes there are more than 20 beaches of eastern Asturias, such as Gulpiyuri, Torimbia or Cue"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, there is WiFi throughout the hotel, plus a garden and an outdoor terrace."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "They are in Andrín, s/n, Llanes (Asturias), in a very quiet area, a few metres from the beach, the coastal path and the municipal golf cours"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book by emailing info@hotelandrin.com (Book button) or calling +34 985417453 or +34 638004162. This assistant does not confirm avail"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book by emailing info@hotelandrin.com (Book button) or calling +34 985417453 or +34 638004162. This assistant does not confirm avail"
+    },
+    {
+     "q": "Do you organise bike routes?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes: the hotel organises guided bike routes, mountain or road, and they are free. If you prefer to go alone, they will suggest the best plac"
+    },
+    {
+     "q": "Is there a golf course nearby?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes: the «La Cuesta» municipal golf course lies between Andrín and Cué, about 100 metres above sea level, a few metres from the hotel."
+    },
+    {
+     "q": "What activities can I do?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "From the hotel you can plan hiking routes, the Cares route, quads, horse and bike rides, canoeing, water sports, caving, canyoning or golf. "
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phones: +34 985417453 and +34 638004162. Email: info@hotelandrin.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "How do I get there from Oviedo?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "From Oviedo or Santander, take the E-70/A-8 to exit 294 (Llanes); then the N-634 towards San Roque and, at the next roundabout, the LLN-2 to"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "Do you have parking?",
+    "Is the beach close?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 7 appartements : les 1, 2 et 3, en rez-de-chaussée, pour 2 adultes et 2 enfants avec terrasse sur un petit jardin ; les 4 et 5, pour "
+    },
+    {
+     "q": "Que comprennent les appartements ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ils ont lit double ou simple, terrasse, jardin, baignoire, sèche-cheveux, chauffage, télévision, lave-vaisselle, lave-linge, cuisine équipée"
+    },
+    {
+     "q": "Avez-vous un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, ils ont un parking privé, et il est gratuit."
+    },
+    {
+     "q": "La plage est-elle proche ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui : la plage d’Andrín est à 400 m, et à moins de 5 minutes il y a plus de 20 plages de l’est des Asturies, comme Gulpiyuri, Torimbia ou Cu"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, le WiFi est disponible dans tout l’hôtel, ainsi qu’un jardin et une terrasse extérieure."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ils sont à Andrín, s/n, Llanes (Asturies), dans un coin très calme, à quelques mètres de la plage, du sentier côtier et du golf municipal, à"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en écrivant à info@hotelandrin.com (bouton Réserver) ou en appelant le +34 985417453 ou le +34 638004162. Cet assistant"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en écrivant à info@hotelandrin.com (bouton Réserver) ou en appelant le +34 985417453 ou le +34 638004162. Cet assistant"
+    },
+    {
+     "q": "Organisez-vous des balades à vélo ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui : l’hôtel organise des balades guidées à vélo, VTT ou route, et elles sont gratuites. Si vous préférez partir seul, ils vous indiquent l"
+    },
+    {
+     "q": "Y a-t-il un golf à proximité ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui : le golf municipal «La Cuesta» se trouve entre Andrín et Cué, à environ 100 mètres au-dessus de la mer, à quelques mètres de l’hôtel."
+    },
+    {
+     "q": "Quelles activités peut-on faire ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Depuis l’hôtel, vous pouvez prévoir randonnées, la route du Cares, quads, balades à cheval et à vélo, descentes en canoë, sports nautiques, "
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphones : +34 985417453 et +34 638004162. E-mail : info@hotelandrin.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Comment venir depuis Oviedo ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Depuis Oviedo ou Santander, E-70/A-8 jusqu’à la sortie 294 (Llanes) ; puis la N-634 direction San Roque et, au rond-point suivant, la LLN-2 "
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "Avez-vous un parking ?",
+    "La plage est-elle proche ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 7 Apartments: 1, 2 und 3 im Erdgeschoss für 2 Erwachsene und 2 Kinder mit Terrasse zu einem kleinen Garten; 4 und 5 für 4 Personen m"
+    },
+    {
+     "q": "Was bieten die Apartments?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sie haben Doppel- oder Einzelbett, Terrasse, Garten, Badewanne, Föhn, Heizung, Fernseher, Geschirrspüler, Waschmaschine, voll ausgestattete "
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Privatparkplatz, und das Parken ist kostenlos."
+    },
+    {
+     "q": "Ist der Strand in der Nähe?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja: Der Strand von Andrín ist 400 m entfernt, und in weniger als 5 Minuten erreichen Sie über 20 Strände im Osten Asturiens, etwa Gulpiyuri,"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, es gibt WLAN im ganzen Haus sowie Garten und Außenterrasse."
+    },
+    {
+     "q": "Wo liegt das Haus?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Das Haus liegt in Andrín, s/n, Llanes (Asturien), in sehr ruhiger Lage, wenige Meter von Strand, Küstenweg und städtischem Golfplatz, wenige"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können per E-Mail an info@hotelandrin.com (Schaltfläche Buchen) oder telefonisch unter +34 985417453 oder +34 638004162 buchen. Dieser A"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können per E-Mail an info@hotelandrin.com (Schaltfläche Buchen) oder telefonisch unter +34 985417453 oder +34 638004162 buchen. Dieser A"
+    },
+    {
+     "q": "Organisieren Sie Radtouren?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ja: Das Hotel organisiert geführte Radtouren, Mountainbike oder Straße, kostenlos. Wenn Sie lieber allein fahren, nennt man Ihnen die besten"
+    },
+    {
+     "q": "Gibt es einen Golfplatz in der Nähe?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja: Der städtische Golfplatz «La Cuesta» liegt zwischen Andrín und Cué, etwa 100 Meter über dem Meer, wenige Meter vom Hotel."
+    },
+    {
+     "q": "Welche Aktivitäten kann man machen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vom Hotel aus können Sie Wanderungen, die Cares-Route, Quadtouren, Ausritte und Radtouren, Kanufahrten, Wassersport, Höhlentouren, Canyoning"
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: +34 985417453 und +34 638004162. E-Mail: info@hotelandrin.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Wie komme ich von Oviedo hin?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Von Oviedo oder Santander über die E-70/A-8 bis Ausfahrt 294 (Llanes); dann die N-634 Richtung San Roque und am nächsten Kreisverkehr die LL"
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 985 417 453 · +34 638 004 162 · info@hotelandrin.com."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Ist der Strand in der Nähe?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

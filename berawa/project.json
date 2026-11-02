@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-andrin-llanes",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T10:48:00+01:00",
+ "updated_at": "2026-11-02T11:20:00+01:00",
+ "business": {
+  "name": "Hotel Andrín",
+  "legal_name": "DIOLTUR, S. L., NIF B33661067, nombre comercial Hotel Andrín (aviso legal de su web)",
+  "registry_ids": [
+   "B33661067"
+  ],
+  "url": "https://hotelandrin.com/",
+  "domain": "hotelandrin.com",
+  "municipality": "Llanes",
+  "province": "Asturias",
+  "address": "Andrín, s/n · 33596 Llanes",
+  "phones": [
+   "+34 985 417 453",
+   "+34 638 004 162"
+  ],
+  "emails": [
+   "info@hotelandrin.com"
+  ],
+  "sector": "hotel rural de apartamentos en Andrín, Llanes"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/search/Hotel+Rural+Andrin+Llanes",
+  "date": "2026-10-30",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "url": "mailto:info@hotelandrin.com",
+  "note": "sin motor de reservas: los botones Reservar de su pagina /precios/ no llevan a ningun sitio (href=\"#\") y su contacto da telefono y correo. Los botones Reservar de la demo abren un correo a info@hotelandrin.com y los telefonos reales 985 417 453 y 638 004 162 van en tel: (mismo criterio que San Martin, Nastasi y Lupercas)."
+ },
+ "audit_original": {
+  "url": "https://hotelandrin.com/",
+  "date": "2026-11-02T10:49:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
