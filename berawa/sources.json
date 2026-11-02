@@ -1,0 +1,44 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelandrin.com/",
+ "read_at": "2026-11-02T10:49:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelandrin.com",
+   "sha256": "a43cb0d2e370a8724d1998cb5e383edf424d92270ef039c28d2d719508937ccb",
+   "chars": 4475
+  },
+  {
+   "url": "https://hotelandrin.com/actividades",
+   "sha256": "90eac1a3de9a0d999bd8cd78c66545f8b3dbbef7556a5dfa03cf2e46816f0882",
+   "chars": 3458
+  },
+  {
+   "url": "https://hotelandrin.com/contacto",
+   "sha256": "3545205a94a583a2cd0aa6579dddcce2da48d206739203738012ec79afc602db",
+   "chars": 2222
+  },
+  {
+   "url": "https://hotelandrin.com/instalaciones",
+   "sha256": "edd1bf442b2f51e9ff48efe1235b48764f4cd59f724bdb7b2172f0a93b14f216",
+   "chars": 2714
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelandrin.com/actividades/campo-de-golf-municipal-la-cuesta",
+  "https://hotelandrin.com/actividades/ninos",
+  "https://hotelandrin.com/actividades/rutasenbicicleta",
+  "https://hotelandrin.com/aviso-legal",
+  "https://hotelandrin.com/elentorno",
+  "https://hotelandrin.com/elentorno/llanes",
+  "https://hotelandrin.com/elentorno/los-bufones-llanes",
+  "https://hotelandrin.com/elentorno/picos-de-europa-2",
+  "https://hotelandrin.com/elentorno/ruta-del-cares",
+  "https://hotelandrin.com/elentorno/santillana-del-mar-altamira",
+  "https://hotelandrin.com/instalaciones/apartamento-1",
+  "https://hotelandrin.com/politica-de-cookies-ue",
+  "https://hotelandrin.com/politica-de-privacidad",
+  "https://hotelandrin.com/precios"
+ ]
+}
